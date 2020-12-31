@@ -12,7 +12,7 @@ CSS/Bootstrap
 JavaScript/JQuery
 
 ## Usage
-
+![Work day planer](./assets/Screenshotplanner.png)
 
 
 ## Maintainer
